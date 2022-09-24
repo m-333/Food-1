@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>566780218976-ntfejomcfq0prsc2r4kcs2947vu6hmul.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.566780218976-ntfejomcfq0prsc2r4kcs2947vu6hmul</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3OJL5ZFCkZFgQ3kAdx7rpoDjmfMx4X6o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>566780218976</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.Food</string>
+	<key>PROJECT_ID</key>
+	<string>egitim-382ab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>egitim-382ab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:566780218976:ios:5c81ad20534956d112bd05</string>
+	<key>DATABASE_URL</key>
+	<string>https://egitim-382ab-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
