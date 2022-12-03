@@ -1,4 +1,4 @@
-# Food-app
+# Yiyoz
  
 <img width="432" alt="bir" src="https://user-images.githubusercontent.com/53395371/192097774-22279492-2f68-4bb4-a484-2242124f72ef.png"> <img width="432" alt="iki" src="https://user-images.githubusercontent.com/53395371/192097781-f54aa25d-4c42-446d-9be7-7a73d7877f75.png"><img width="432" alt="uc" src="https://user-images.githubusercontent.com/53395371/192097785-0457d2d8-b029-4973-bb65-77fbf53a46d8.png">
 <img width="432" alt="dort" src="https://user-images.githubusercontent.com/53395371/192097806-8c9847cd-7d08-4af1-8631-1171fa369b5d.png"><img width="432" alt="bes" src="https://user-images.githubusercontent.com/53395371/192097809-c48c40a6-73f9-472f-a2ef-64d5d840d450.png">
